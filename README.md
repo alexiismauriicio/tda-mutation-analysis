@@ -1,7 +1,7 @@
 # Análisis topológico (TDA) de efectos de mutación en interacciones proteína-proteína
 
 Código utilizado en la tesis de maestría *"Análisis de los efectos de mutación en modelos
-de interacción proteína-proteína utilizando Topology Data Analysis (TDA)"*
+de interacción proteína-proteína utilizando Topological Data Analysis (TDA)"*
 (Maestría en Ciencia de Datos, Yachay Tech). El pipeline usa homología persistente
 (complejos de Vietoris-Rips) para caracterizar la topología de la interfaz de unión de la
 Receptor Binding Protein (RBP) del bacteriófago φRs551 a lo largo de series evolutivas de
