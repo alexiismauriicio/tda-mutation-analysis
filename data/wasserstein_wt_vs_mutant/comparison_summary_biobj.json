@@ -1,0 +1,40 @@
+{
+  "wildtype": {
+    "H0_count": 561.0,
+    "H0_sum_persistence": 826.7778928279877,
+    "H0_mean_persistence": 1.4737573847201206,
+    "H0_max_persistence": 3.2051174640655518,
+    "H1_count": 158.0,
+    "H1_sum_persistence": 93.6789585351944,
+    "H1_mean_persistence": 0.5929048008556608,
+    "H1_max_persistence": 2.410245656967163,
+    "H2_count": 45.0,
+    "H2_sum_persistence": 14.157074451446533,
+    "H2_mean_persistence": 0.3146016544765896,
+    "H2_max_persistence": 1.28828763961792,
+    "n_mut_chain_residues": 38,
+    "n_partner_residues": 39,
+    "n_interface_points": 562,
+    "pdb_file": "/Users/alexisgarzon/Documents/Yachay Tech/MAESTR\u00cdA CIENCIA DE DATOS/2do Semestre/Titulaci\u00f3n/protein-tda/1obj/bi-obj/run12/g0/g0_00.pdb"
+  },
+  "mutant": {
+    "H0_count": 520.0,
+    "H0_sum_persistence": 767.0149985551834,
+    "H0_mean_persistence": 1.4750288433753527,
+    "H0_max_persistence": 3.34932017326355,
+    "H1_count": 136.0,
+    "H1_sum_persistence": 82.12793803215027,
+    "H1_mean_persistence": 0.6038818972952226,
+    "H1_max_persistence": 2.4630353450775146,
+    "H2_count": 38.0,
+    "H2_sum_persistence": 7.891345739364624,
+    "H2_mean_persistence": 0.20766699314117432,
+    "H2_max_persistence": 0.9008288383483887,
+    "n_mut_chain_residues": 38,
+    "n_partner_residues": 39,
+    "n_interface_points": 521,
+    "pdb_file": "/Users/alexisgarzon/Documents/Yachay Tech/MAESTR\u00cdA CIENCIA DE DATOS/2do Semestre/Titulaci\u00f3n/protein-tda/1obj/bi-obj/run12/g16/g16_5.pdb"
+  },
+  "wasserstein_H1": 21.777584566424874,
+  "wasserstein_H2": 7.6109675445333576
+}

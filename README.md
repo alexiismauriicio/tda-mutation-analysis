@@ -63,3 +63,7 @@ Si este código es de utilidad, por favor cita la tesis correspondiente:
 ## Licencia
 
 MIT License (ver `LICENSE`).
+
+## Datos de resultados
+
+La carpeta [`data/`](data/) incluye las tablas de resultados (descriptores topológicos, PCA, correlaciones de Spearman, índice de calidad, registro de `score`/`ll` y distancias de Wasserstein) de los experimentos de un objetivo, biobjetivo (`run12`) y del conjunto piloto, sin los archivos `.pdb`. Ver `data/README.md`.
